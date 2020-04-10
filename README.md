@@ -1,12 +1,12 @@
 ## Flower Classification System with Transfer Learning
 
 
-The source code and presentation material are available on [Google Drive](https://drive.google.com/drive/folders/1EaejDnwEZXczCpLsoWhEHciXTwJVu2iK?usp=sharing "Google Drive")
+The source code and presentation material are available on [Google Drive](https://drive.google.com/drive/folders/1EaejDnwEZXczCpLsoWhEHciXTwJVu2iK?usp=sharing "Google Drive"). The content is arranged accordingly to this README file. 
 
 ## Source Code
 
 ### (Part A) IPython Notebook 
-This link contains the IPython Notebook file for **104 Flowers**. This notebook is developed in Google Colaboratory.
+IPython Notebook file for **104 Flowers**. This notebook is developed in Google Colaboratory.
 
 #### Instruction
 1. Upload the 104 Flowers: Garden of Eden onto Google Drive.
@@ -20,10 +20,10 @@ This link contains the IPython Notebook file for **104 Flowers**. This notebook 
 ### (Part B) Mobile Application 
 
 #### Android Project 
-This link contains the android project for **104 Flowers**. To use it, please download and import it into Android Studio for further modifications.
+Android project for **104 Flowers**. To use it, please download and import it into Android Studio for further modifications.
 
 #### 104 Flowers APK file
-This link contains the APK file for **104 Flowers**. To use it, please download and install it on an Android device. The installed application is ready to use. 
+APK file for **104 Flowers**. To use it, please download and install it on an Android device. The installed application is ready to use. 
 
 #### Instruction
 1. Download and install the **104 Flowers** APK file here.
@@ -42,7 +42,7 @@ DenseNet121 architecture with 104 output dimensions
 
 
 #### Flower Classification Dataset
-104 Flowers: Garden of Eden folder structure
+Folder structure for 104 Flowers: Garden of Eden dataset 
 - jpeg-192x192
   - train
     - alpine sea holly
