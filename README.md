@@ -1,8 +1,5 @@
 ## Flower Classification System with Transfer Learning
 
-[TOC]
-
-------------
 
 The source code and presentation material are available on [Google Drive](https://drive.google.com/drive/folders/1EaejDnwEZXczCpLsoWhEHciXTwJVu2iK?usp=sharing "Google Drive")
 
